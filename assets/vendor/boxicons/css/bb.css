@@ -1,0 +1,16 @@
+#col-lg-8 d-flex align-items-stretch{
+	align-items: stretch;
+	display: flex;
+}
+#icon-boxes d-flex flex-column justify-content-center{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+#row{
+	flex-direction: row;
+}
+#col-xl-4 d-flex align-items-stretch{
+	display: flex;
+	align-items: stretch;
+}
